@@ -1,2 +1,2 @@
 # LINUX_MINIMAL_IMAGE
-Live Linux Minimal Foot Print . 
+I will update this shortly.
