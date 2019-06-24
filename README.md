@@ -1,1 +1,1 @@
-# 2  UbuntuX86_64 25MB Linux Live Image. CentOSX86_64 35 MB . This is just for Demo of skill.
+My Skill Demo. UbuntuX86_64 25MB and CentOSX86_64 35MB LiveImages. After you boot, PRESS ENTER KEY for shell.
